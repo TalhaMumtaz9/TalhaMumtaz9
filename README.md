@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**TalhaMumtaz9/TalhaMumtaz9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Hi, I'm Talha MUMTAZ
+### 🚀 DevOps Engineer in Training
+I'm currently learning DevOps and building my skills in:
+- 🐧 Linux
+- 🔧 Git & Github
+- 🐟 Docker
+- ☁ Cloud
+- ⚙ CI/CD
+- 💻 GitHub Actions
+### 🛠 Tools & technologies
+Git . GitHub . Linux . Docker . GitHub Actions . VS Code
+### 📚 Currently Learning
+DevOps Engineering and Cloud Technolgies
+### 🚀 Projects
+- Git & GitHub Practice
+- GitHub Pages Deployment
+- React + Vite Deployment
+### 🧲 Connect With Me
+GitHub: TalhaMumtaz9
